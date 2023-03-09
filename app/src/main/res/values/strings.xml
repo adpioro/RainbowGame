@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RainbowGame</string>
+    <string name="name_header">Rainbow</string>
+    <string name="red">RED</string>
+    <string name="orange">ORANGE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="violet">VIOLET</string>
+    <string name="points">Points: %1$d</string>
+    <string name="instruction">Every 25 clicks adds 1 idle worker</string>
+    <string name="idle">Idle: %1$d</string>
+</resources>
